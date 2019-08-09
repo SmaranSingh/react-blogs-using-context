@@ -1,0 +1,11 @@
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto;
+  padding: 0 15px;
+}
+
+.user-list-item {
+  background-color: #eee;
+  margin: 0 10px 10px 0;
+  padding: 5px 15px;
+}

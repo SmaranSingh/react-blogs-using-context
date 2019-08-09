@@ -1,0 +1,39 @@
+.post-body {
+  margin: 5px 15px;
+}
+
+.inline-header {
+  display: inline;
+}
+
+.delete-button {
+  float: right;
+  margin-right: 2rem;
+  margin-top: 10px;
+  color: red;
+  height: 1.4rem;
+  border-color: red;
+  border-radius: 5px;
+}
+
+.comments-header {
+  margin: 0;
+}
+
+.comments-button {
+  height: 1.4rem;
+  width: 10rem;
+  float: right;
+  margin-right: 2rem;
+  border-radius: 5px;
+}
+
+.comment-list-item {
+  margin: 10px 15px;
+  padding: 10px 5px;
+  background-color: #eee;
+}
+
+.comment-body {
+  padding-top: 5px;
+}
